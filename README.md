@@ -1,6 +1,6 @@
 #### Demo
 
-<img src='./readmeImg/13.png' width='50%'>
+<img src='./readmeImg/13.PNG' width='50%'>
 <hr >
 
 #### Check out my UI prototype on 👉[Figma](https://www.figma.com/file/jsCjXvW1PtSiD8ekU96Rkb/Stock?type=design&node-id=0%3A1&mode=design&t=qGdiATgp7GnjrZPc-1) 👈.
@@ -8,8 +8,8 @@
 
 #### The process of building this App in a step-by-step manner.
 
-| ![](./readmeImg/1.png) |  ![](./readmeImg/2.png)  | ![](./readmeImg/3.png)  |![](./readmeImg/4.png)  |
+| ![](./readmeImg/1.PNG) |  ![](./readmeImg/2.PNG)  | ![](./readmeImg/3.PNG)  |![](./readmeImg/4.PNG)  |
 |---|---|---|---|
-|  ![](./readmeImg/5.png)   | ![](./readmeImg/7.png)   |  ![](./readmeImg/8.png)  | ![](./readmeImg/8.png)   |
-| ![](./readmeImg/10.png)    | ![](./readmeImg/11.png)   |  ![](./readmeImg/12.png)  |  ![](./readmeImg/13.png)  | 
+|  ![](./readmeImg/5.PNG)   | ![](./readmeImg/7.PNG)   |  ![](./readmeImg/8.PNG)  | ![](./readmeImg/8.PNG)   |
+| ![](./readmeImg/10.PNG)    | ![](./readmeImg/11.PNG)   |  ![](./readmeImg/12.PNG)  |  ![](./readmeImg/13.PNG)  | 
 
